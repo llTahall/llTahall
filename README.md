@@ -6,7 +6,7 @@ Hi, I'm Mohammed Taha from Morocco, 4th year Software Engineering student at the
 ## 🧰 Tech Stack
 
 ### 💻 Programming Languages and Technologies
-- Java, C language, JavaScript
+- Java, C language, JavaScript , SQL
   
 ### 🌐 Web Technologies
 - HTML
