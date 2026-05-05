@@ -17,9 +17,8 @@ Hi, I'm Mohammed Taha from Morocco, 4th year Software Engineering student at the
   
 ### ⚙️ Frameworks
 - Spring Boot
-- React
-- Bootstrap
-
+- React / React Native
+  
 ### 🛠️ Tools
 - Git
 - VScode
