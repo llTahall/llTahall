@@ -1,6 +1,12 @@
-# Mohammed Taha Srhiri
+<div align="center">
 
-**Software Engineering Student at UIR | Full-Stack & Mobile Developer**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mohammed%20Taha%20Srhiri&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=16&descAlignY=55" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Building+full-stack+web+applications;React+%7C+Spring+Boot+%7C+React+Native;Open+to+PFA+Internship)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
@@ -19,58 +25,94 @@ I build web applications with React and Spring Boot, and mobile apps with React 
 
 **Languages**
 
-Java | JavaScript | SQL | C
+<p>
+  <img src="https://skillicons.dev/icons?i=java,javascript,c,mysql" />
+</p>
 
 **Frontend**
 
-React.js | React Native | HTML | CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
 
 **Backend**
 
-Spring Boot 3.2 | REST APIs | WebSocket + STOMP | JWT
+<p>
+  <img src="https://skillicons.dev/icons?i=spring" />
+</p>
 
 **Mobile**
 
-React Native | Expo SDK | Redux Toolkit | React Navigation
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+</p>
 
-**Database**
+**DevOps & Tools**
 
-MySQL | SQLite
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" />
+</p>
+
+**Testing**
+
+<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
+<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
 ---
 
 ## Featured Projects
 
-### Full-Stack Ride-Sharing Platform
-Full-stack carpooling web application connecting drivers and passengers for intercity travel in Morocco.
-
-- JWT authentication with role-based access (Driver / Passenger)
-- Real-time notifications via WebSocket + STOMP
-- Interactive maps with Leaflet, OpenStreetMap and OSRM routing
-- Deployed on OVH VPS with Docker Compose + nginx reverse proxy
-- End-to-end tests with Selenium, API tests with Postman, managed in Jira + Zephyr
-
-**Stack:** React.js | Spring Boot 3.2 | MySQL | WebSocket | Docker | Java 21
-
-Live Demo: http://79.137.73.134:3000 | [GitHub](https://github.com/llTahall/Co-voiturage-App)
-
----
-
-### Recipe & Nutrition Tracking App
-Full mobile app for recipe management and daily nutrition tracking.
-
-- Onboarding flow with BMI and daily macro calculation
-- Recipe discovery via TheMealDB API with category browsing
-- Weekly meal planner with custom recipe creation
-- Local data persistence with SQLite
-
-**Stack:** React Native | Expo SDK 54 | Redux Toolkit | SQLite | React Navigation
-
-[GitHub](https://github.com/llTahall/Cooking-Recipes-App)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">CoVoiture</h3>
+      <p align="center">Full-stack carpooling platform connecting drivers and passengers for intercity travel in Morocco.</p>
+      <p align="center">
+        <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white"/>
+        <img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
+        <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=flat-square"/>
+        <img alt="Backend" src="https://img.shields.io/badge/BACKEND-6DB33F?style=flat-square"/>
+        <img alt="Frontend" src="https://img.shields.io/badge/FRONTEND-61DAFB?style=flat-square"/>
+        <img alt="Deployed" src="https://img.shields.io/badge/DEPLOYED-success?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/llTahall/Co-voiturage-App">GitHub</a> •
+        <a href="http://79.137.73.134:3000">Live Demo</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">NutriFlow</h3>
+      <p align="center">Mobile app for recipe management and daily nutrition tracking.</p>
+      <p align="center">
+        <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white"/>
+        <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white"/>
+        <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+        <img alt="Mobile" src="https://img.shields.io/badge/MOBILE-61DAFB?style=flat-square"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/llTahall/Cooking-Recipes-App">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Connect
 
-- LinkedIn: https://www.linkedin.com/in/srhiri-mohammed-taha/
-- Email: mohammedtaha052022@gmail.com
+<p>
+  <a href="https://linkedin.com/in/srhiri-mohammed-taha">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:mohammedtaha052022@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
