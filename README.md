@@ -48,18 +48,6 @@ Currently looking for a PFA internship in full-stack or mobile development — B
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 </p>
 
-**DevOps & Tools**
-
-<p align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" /></p>
-
-**Testing**
-
-<p align="center">
-<img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-<img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
 ---
 
 ## Featured Projects
