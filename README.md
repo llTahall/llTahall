@@ -11,8 +11,6 @@
 
 ---
 
-<div align="center">
-
 ## About Me
 
 4th-year Software Engineering student at the International University of Rabat (UIR), specializing in full-stack web and mobile development.
@@ -21,60 +19,48 @@ I build web applications with React and Spring Boot, and mobile apps with React 
 
 Currently looking for a PFA internship in full-stack or mobile development — Based in Morocco.
 
-</div>
-
 ---
-
-<div align="center">
 
 ## Tech Stack
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=java,javascript,c,mysql" />
-
-<br/><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=java,javascript,c,mysql" /></p>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,html,css" />
-
-<br/><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,html,css" /></p>
 
 **Backend**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=spring" />
 <img alt="REST API" src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
 <img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 **Mobile**
 
+<p align="center">
 <img src="https://skillicons.dev/icons?i=react" />
 <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-
-<br/><br/>
+</p>
 
 **DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" />
-
-<br/><br/>
+<p align="center"><img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" /></p>
 
 **Testing**
 
+<p align="center">
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
 <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-
-</div>
+</p>
 
 ---
-
-<div align="center">
 
 ## Featured Projects
 
@@ -115,19 +101,15 @@ Currently looking for a PFA internship in full-stack or mobile development — B
   </tr>
 </table>
 
-</div>
-
 ---
-
-<div align="center">
 
 ## Connect
 
+<p align="center">
 <a href="https://linkedin.com/in/srhiri-mohammed-taha">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:mohammedtaha052022@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-</div>
+</p>
