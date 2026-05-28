@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mohammed%20Taha%20Srhiri&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Full-Stack%20%26%20Mobile%20Developer&descSize=16&descAlignY=55" width="100%"/>
+<h1>Mohammed Taha Srhiri</h1>
+<h3>Software Engineering Student | Full-Stack & Mobile Developer</h3>
 
 <br/>
 
@@ -10,50 +11,58 @@
 
 ---
 
+<div align="center">
+
 ## About Me
 
 4th-year Software Engineering student at the International University of Rabat (UIR), specializing in full-stack web and mobile development.
 
 I build web applications with React and Spring Boot, and mobile apps with React Native, focusing on real-world features like JWT authentication, WebSocket real-time communication, and REST API integrations.
 
-- Currently looking for a PFA internship in full-stack or mobile development
-- Based in Morocco
+Currently looking for a PFA internship in full-stack or mobile development — Based in Morocco.
+
+</div>
 
 ---
+
+<div align="center">
 
 ## Tech Stack
 
 **Languages**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,javascript,c,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,javascript,c,mysql" />
+
+<br/><br/>
 
 **Frontend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,html,css" />
+
+<br/><br/>
 
 **Backend**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=spring" />
-</p>
+<img src="https://skillicons.dev/icons?i=spring" />
+<img alt="REST API" src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
+<img alt="WebSocket" src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge"/>
+<img alt="JWT" src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br/><br/>
 
 **Mobile**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-  <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react" />
+<img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
+<img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<br/><br/>
 
 **DevOps & Tools**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,postman,linux" />
+
+<br/><br/>
 
 **Testing**
 
@@ -61,7 +70,11 @@ I build web applications with React and Spring Boot, and mobile apps with React 
 <img alt="Pytest" src="https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Featured Projects
 
@@ -102,17 +115,19 @@ I build web applications with React and Spring Boot, and mobile apps with React 
   </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## Connect
 
-<p>
-  <a href="https://linkedin.com/in/srhiri-mohammed-taha">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mohammedtaha052022@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+<a href="https://linkedin.com/in/srhiri-mohammed-taha">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohammedtaha052022@gmail.com">
+  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer" width="100%"/>
+</div>
