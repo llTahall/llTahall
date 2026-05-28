@@ -55,7 +55,7 @@ Currently looking for a PFA internship in full-stack or mobile development — B
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">CoVoiture</h3>
+     
       <p align="center">Full-stack carpooling platform connecting drivers and passengers for intercity travel in Morocco.</p>
       <p align="center">
         <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -73,7 +73,7 @@ Currently looking for a PFA internship in full-stack or mobile development — B
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">NutriFlow</h3>
+     
       <p align="center">Mobile app for recipe management and daily nutrition tracking.</p>
       <p align="center">
         <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
