@@ -90,6 +90,16 @@ Currently looking for a PFA internship in full-stack or mobile development — B
 </table>
 
 ---
+## GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=llTahall&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llTahall&layout=compact&langs_count=7&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=llTahall&theme=tokyonight" />
+</p>
 
 ## Connect
 
