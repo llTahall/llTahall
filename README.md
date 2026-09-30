@@ -21,7 +21,7 @@ Through my academic and personal projects, I have developed **full-stack applica
 
 I also have experience in **mobile development with React Native**, using Expo, Redux Toolkit and SQLite to build applications with external API integration and local data management.
 
-### Currently interested in
+### Worked In / With:
 
 * Full-Stack & Backend Development
 * Java / Spring Boot
