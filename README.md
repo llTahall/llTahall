@@ -13,12 +13,17 @@
 
 ## About Me
 
-4th-year Software Engineering student at the International University of Rabat (UIR), specializing in full-stack web and mobile development.
+Étudiant en ingénierie logicielle, spécialisé dans le développement d’applications web et mobiles full-stack, avec une expérience acquise à travers des projets académiques et une expérience professionnelle en environnement de développement.
 
-I build web applications with React and Spring Boot, and mobile apps with React Native, focusing on real-world features like JWT authentication, WebSocket real-time communication, and REST API integrations.
 
-Currently looking for a PFA internship in full-stack or mobile development — Based in Morocco.
+Lors de mon stage chez Alphastra, j’ai contribué au développement d’iPha, une plateforme intelligente de gestion pharmaceutique multi-tenant basée sur Next.js. J’ai travaillé sur des problématiques d’authentification et de contrôle d’accès avec NextAuth et JWT, ainsi que sur la sécurisation des endpoints à travers la validation des données avec Zod et la mise en place d’un mécanisme générique de rate limiting. J’ai également développé des fonctionnalités liées à l’authentification MFA avec TOTP, à l’interopérabilité des données de santé avec FHIR R4 et à la gestion de fichiers avec MinIO compatible S3.
 
+
+
+Sur mes projets full-stack, j’ai développé des applications avec React, Next.js et Spring Boot, en mettant en œuvre des API REST, une authentification JWT, une gestion des rôles et des workflows métier. J’ai notamment développé une plateforme de covoiturage intégrant des réservations multi-statuts, des notifications temps réel avec WebSockets et des fonctionnalités de cartographie basées sur Leaflet et OSRM
+
+
+Mon environnement technique comprend principalement Java, TypeScript, JavaScript, Spring Boot, React, Next.js et React Native, avec une utilisation de PostgreSQL, MySQL, SQLite, Prisma, Redis et MinIO. Je travaille également avec Docker, Git/GitLab, Postman et des méthodes de développement Agile/Scrum.
 ---
 
 ## Tech Stack
