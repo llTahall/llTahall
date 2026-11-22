@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Mohammed Taha Srhiri</h1>
-<h3>Software Engineering Student | Full-Stack & Mobile Developer</h3>
+<h3>Junior Software Engineer</h3>
 
 <br/>
 
